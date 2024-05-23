@@ -1,0 +1,1 @@
+Para garantir a integridade e segurança do projeto, todas as atualizações serão cuidadosamente verificadas antes da sua implementação. O objetivo principal deste projeto é otimizar e acelerar o processo de download de aplicativos. Sinta-se encorajado a contribuir e aprimorar continuamente essa iniciativa, promovendo sua evolução e aperfeiçoamento.
