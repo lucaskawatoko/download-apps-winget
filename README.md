@@ -8,8 +8,8 @@ Este script em batch permite baixar e instalar vários aplicativos usando o Wind
    - Clone ou faça o download deste repositório para o seu computador.
 
 2. **Executando o Script:**
-   - Navegue até o diretório onde o script `install-apps.bat` está localizado.
-   - Dê um duplo clique no arquivo `install-apps.bat` para executá-lo.
+   - Navegue até o diretório onde o script `download-winget.bat` está localizado.
+   - Dê um duplo clique no arquivo `idownload-winget.bat` para executá-lo.
 
 3. **Selecionando os Aplicativos:**
    - Uma lista de aplicativos disponíveis para instalação será exibida no prompt de comando.
